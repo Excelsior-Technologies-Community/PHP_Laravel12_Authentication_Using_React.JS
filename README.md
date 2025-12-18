@@ -46,7 +46,7 @@ This connects Laravel with your MySQL database.
 Create migration:
 
 ```bash
-php artisan make:migration create_users_table
+php artisan make:migration create_Customers_table
 ```
 
 Migration file:
