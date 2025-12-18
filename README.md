@@ -51,7 +51,7 @@ php artisan make:migration create_Customers_table
 
 Migration file:
 
- `database/migrations/xxxx_create_users_table.php`
+ `database/migrations/xxxx_create_customers_table.php`
 
 ```php
 <?php
